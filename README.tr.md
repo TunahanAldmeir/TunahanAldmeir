@@ -1,21 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,40:A855F7,70:EC4899,100:F59E0B&height=200&section=header&text=Tunahan%20Aldemir&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Magento%202%20ve%20Laravel%20backend%20geliştirici%20·%20Flutter%20·%20gerçek%20zamanlı%20yapay%20zeka&descSize=14&descAlignY=58" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,40:A855F7,70:EC4899,100:F59E0B&height=200&section=header&text=Tunahan%20Aldemir&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Magento%202%20ve%20Laravel%20backend%20gelistirici%20%7C%20Flutter%20%7C%20gercek%20zamanli%20yapay%20zeka&descSize=16&descAlignY=60&v=2" width="100%" alt="">
 
 <p align="center">
-  <a href="README.md"><img alt="English" src="https://img.shields.io/badge/🇬🇧%20English-read-6366F1?style=for-the-badge&labelColor=1e1b4b"></a>
-  <a href="README.tr.md"><img alt="Türkçe" src="https://img.shields.io/badge/🇹🇷%20Türkçe-seçili-EC4899?style=for-the-badge&labelColor=1e1b4b"></a>
+  <a href="README.md"><img alt="English" src="https://img.shields.io/badge/🇬🇧%20English-1e1b4b?style=for-the-badge"></a>
+  <a href="README.tr.md"><img alt="Türkçe" src="https://img.shields.io/badge/🇹🇷%20Türkçe-EC4899?style=for-the-badge"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/TunahanAldmeir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=Üretimde+Magento+2+ve+Laravel;Laravel+12+%2B+Filament+4+platformları;Google+Play'de+yayında+Flutter+uygulamaları;Gemini+Live+ile+gerçek+zamanlı+sesli+yapay+zeka;422+sorgu+%E2%86%92+293.+28%2C8+sn+%E2%86%92+1+sn+altı." alt="">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=700&height=45&lines=Uretimde+Magento+2+ve+Laravel;Laravel+12+%2B+Filament+4+platformlari;Google+Play%27de+Flutter+uygulamalari;Gemini+Live+ile+sesli+yapay+zeka" alt="">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.vunlo.pufi"><img alt="Google Play'de Pufi" src="https://img.shields.io/badge/Google%20Play-Pufi-00C853?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=1e1b4b"></a>
-  <a href="https://karakern.com"><img alt="Web sitesi" src="https://img.shields.io/badge/Web-karakern.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b"></a>
-  <a href="mailto:tunahanaldemir46@gmail.com"><img alt="E-posta" src="https://img.shields.io/badge/E--posta-merhaba%20de-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b"></a>
-  <img alt="Profil görüntülenme" src="https://komarev.com/ghpvc/?username=TunahanAldmeir&style=for-the-badge&color=EC4899&labelColor=1e1b4b">
+  <a href="https://play.google.com/store/apps/details?id=com.vunlo.pufi"><img alt="Google Play'de Pufi" src="https://img.shields.io/badge/Google%20Play'de%20Pufi-00C853?style=for-the-badge&logo=googleplay&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tunahan-aldemir-0490261b5"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://karakern.com"><img alt="karakern.com" src="https://img.shields.io/badge/karakern.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:tunahanaldemir46@gmail.com"><img alt="E-posta" src="https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,50:EC4899,100:F59E0B&height=4&section=header" width="100%" alt="">
