@@ -51,12 +51,11 @@ A Flutter app where a 3D character talks with you in real time over the **Gemini
 
 ---
 
-### 📊 GitHub
+### 📌 Currently
 
-<p align="center">
-  <img height="150" alt="stats" src="https://github-readme-stats.vercel.app/api?username=TunahanAldmeir&show_icons=true&hide_border=true&theme=tokyonight">
-  <img height="150" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanAldmeir&layout=compact&hide_border=true&theme=tokyonight">
-</p>
+- Shipping **Story Time** in Pufi: a bedtime-story mode with its own narrator, built on Gemini 3.8 Live and Play subscriptions
+- Going deeper on real-time voice agents — latency, barge-in, lip-sync
+- Building Laravel + Filament back offices for e-commerce teams
 
 ---
 
